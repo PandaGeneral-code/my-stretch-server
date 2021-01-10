@@ -1,0 +1,8 @@
+{
+  "name": "my-stretch-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:PandaGeneral-code/my-stretch-server.git",
+  "author": "SashaZ <sasha.zahnitko@gmail.com>",
+  "license": "MIT"
+}
